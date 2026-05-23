@@ -19,9 +19,7 @@ public class AutoService {
     private final AutoMapper mapper;
 
     public AutoResponseDTO getById(Long id) {
-        // Estilo exacto del profesor: orElse(null)
-        return mapper.toDto(
-                repository.findById(id).orElse(null)
+        return mapper.toDto(repository.findById(id).orElse(null)
         );
     }
 

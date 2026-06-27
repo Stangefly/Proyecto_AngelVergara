@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e16963f7-eb17-49cf-b0f6-9ecebc2606ff" name="Changes" comment="" />
+    <list default="true" id="e16963f7-eb17-49cf-b0f6-9ecebc2606ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ms_auto/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms_auto/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms_auto/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms_auto/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms_auto/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms_auto/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms_auto/src/main/java/cl/duoc/aduana/ms_auto/MsAutoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms_auto/src/main/java/cl/duoc/aduana/ms_auto/controller/AutoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms_auto/src/main/java/cl/duoc/aduana/ms_auto/dto/AutoRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms_auto/src/main/java/cl/duoc/aduana/ms_auto/dto/AutoResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms_auto/src/main/java/cl/duoc/aduana/ms_auto/model/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms_auto/src/main/java/cl/duoc/aduana/ms_auto/model/HistorialAuto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms_auto/src/main/java/cl/duoc/aduana/ms_auto/model/mapper/AutoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms_auto/src/main/java/cl/duoc/aduana/ms_auto/repository/AutoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms_auto/src/main/java/cl/duoc/aduana/ms_auto/repository/HistorialAutoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms_auto/src/main/java/cl/duoc/aduana/ms_auto/service/AutoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms_auto/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms_auto/src/main/resources/db/migration/V1.0.0__init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms_auto/src/test/java/cl/duoc/aduana/ms_auto/MsAutoApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +72,8 @@
     "last_opened_file_path": "C:/Users/angel/Downloads/Proyecto_Angel_Vergara/ms_auto",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="TaskManager">
